@@ -285,15 +285,16 @@ menu    100 {
     10176  155 "60Hzのリフレッシュレートを強制する"
           //-- "Enable &Triple Buffering (Fullscreen)"
     10100  156 "トリプルバッファリングを有効化（全画面）"
+          //-- "Enable Windowed Fullscreen (DX9 Blitters)"
+    10646  157 "ウィンドウフルスクリーンを有効にする(DX9 Blitters)"
           //-- "Enable VSync (Windowed)"
-    10646  157 "VSyncを有効化(Windowed)"
+    10103  158 "VSyncを有効化(Windowed)"
           //-- "Enable DWM Sync (Windowed)"
-    10103  158 "DWM Syncを有効化 (Windowed)"
+    10177  159 "DWM Syncを有効化 (Windowed)"
           //-- "Auto Frameskip"
-    10177  159 "オートフレームスキップ"
-          //-- "Enable RunAhead"
-    10178  160 "RunAheadを有効化"
-    10178  161 ""
+    10178  160 "オートフレームスキップ"
+          //-- "Enable RunAhead
+    10178  161 "RunAheadを有効化"
   }
         //-- "Audio"
   popup  162 "オーディオ" {
